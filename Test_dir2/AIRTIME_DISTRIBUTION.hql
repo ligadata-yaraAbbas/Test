@@ -17,3 +17,4 @@ SELECT
 FROM
   aggr.AIRTIME_DISTRIBUTION
 WHERE tbl_dt = {table_dt}
+==============================================
